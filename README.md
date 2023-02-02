@@ -20,5 +20,5 @@
  
 <div> 
 
-   ![Snake animation](https://github.com/eduzim-apex/eduzim-apex/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielCordeiroBarrosoTeles/GabrielCordeiroBarrosoTeles/blob/output/github-contribution-grid-snake.svg)
 </div>
