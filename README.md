@@ -3,11 +3,6 @@
 
 -🍙 Calma lá patrão só to querendo farmar um Xpzinho
 
-<div align="center">
-   <a href="https://github.com/eduzim-apex">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduzim-apex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduzim-apex&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
