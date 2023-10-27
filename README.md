@@ -1,7 +1,7 @@
 ### Hi there 👋
 -🍙 Hold On Bro, just trying to Farm some XP
 
--🍙 Calma lá patrão só to querendo farmar um Xpzinho
+-🍙 Estudante de Programação em busca de mais conhecimento
 
 
 <div style="display: inline_block"><br>
